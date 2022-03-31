@@ -1,6 +1,8 @@
 # Jogo da velha
 Criação de jogo da velha utilizando HTML, CSS e Javascript, como atividade prática do Bootcamp "Órbi Web Games Developer", pela Digital Innovation One.
 
+![Screenshot_20220331-170538_Chrome](https://user-images.githubusercontent.com/93830634/161143489-74d20b3c-5286-40f9-a795-71aa0e8053c5.jpg)
+
 ### Status do projeto
 Concluído!!!⭕❌
 
