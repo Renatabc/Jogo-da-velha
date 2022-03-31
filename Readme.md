@@ -8,7 +8,7 @@ Concluído!!!⭕❌
 
 ## Demonstração da aplicação
 
-https://renatabc.github.io/resgatejs/
+https://renatabc.github.io/Jogo-da-velha/
 
 ## Pré-requisitos
 
