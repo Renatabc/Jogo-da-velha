@@ -118,8 +118,8 @@ function restart() {
 
     for (var i = 1; i <= 9; i++) {
         var square = document.getElementById(i);
-        square.style.background = '#eee';
-        square.style.color = '#eee';
+        square.style.background = '#fc97b2';
+        square.style.color = '#fc97b2';
         square.innerHTML = '-';
     }
 
