@@ -1,4 +1,4 @@
-var gamer, winner = null;
+var player, winner = null;
 var playerSelected = document.getElementById('player-selected');
 var playerWin = document.getElementById('player-win');
 
@@ -14,22 +14,22 @@ function chooseSquare(id) {
         return;
     }
 
-    square.innerHTML = gamer;
+    square.innerHTML = player;
     square.style.color = '#000';
 
-    if (gamer === 'X') {
-        gamer = 'O';
+    if (player === 'X') {
+        player = 'O';
     } else {
-        gamer = 'X';
+        player = 'X';
     }
 
-    changePlayer(gamer);
+    changePlayer(player);
     checksWinner();
 }
 
 function changePlayer(valor) {
-    gamer = valor;
-    playerSelected.innerHTML = gamer;
+    player = valor;
+    playerSelected.innerHTML = player;
 }
 
 function checksWinner() {
